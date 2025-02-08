@@ -1,0 +1,43 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+body{
+    margin: 30px;
+}
+
+.container{
+    background-color:black;
+    color:white;
+    padding: 30px;
+    line-height: 35px;
+}
+
+.cointainer1{
+    margin-top:10px;
+}
+
+.main_container{
+    display: flex;
+    margin-top: 15px;
+    gap: 10px;
+}
+
+.sub_container1 {
+    padding: 15px;
+    background-color: white;
+}
+
+.sub cointainer1 h2{
+    color:white;
+    margin-bottom: 10px;
+}
+
+.end-part{
+    background-color:black;
+    color:white;
+    line-height: 35px;
+    margin-top: 20px;
+    padding: 20px;
+}
